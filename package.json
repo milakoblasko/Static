@@ -1,7 +1,7 @@
 {
   "name": "static",
   "version": "1.0.0",
-  "description": "Microfrontend Static",
+  "description": "Mfrontend Static",
   "repository": "https://github.com/MicrofrontendGenerator/static.git",
   "author": "Retzd",
   "license": "MIT",
