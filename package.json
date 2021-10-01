@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mfrontend Static",
   "repository": "https://github.com/milakoblasko/static.git",
-  "author": "Retzd",
+  "author": "milakoblasko",
   "license": "MIT",
   "scripts": {
     "start": "serve --port 5000 --cors content"
